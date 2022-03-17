@@ -1,0 +1,40 @@
+body {
+  padding-bottom: 70px;
+  background-color: #eee;
+}
+.active > a {
+  color: #64757d !important;
+}
+.content-card {
+  background-color: #b8bb55;
+  color: #eee;
+}
+.footer, .header {
+  background-color: #479aa8;
+}
+.yoga-3 {
+  background-image: url(../images/yoga-3.jpg);
+  background-repeat: no-repeat;
+  background-size: 98% 98%;
+  padding-bottom: 50%;
+}
+
+.navigation ul{
+  display: inline-block;
+}
+.navigation li {
+  float: left
+}
+.page-title {
+}
+.site-title {
+  padding-top: 5px;
+}
+.tabcontent {
+}
+.nav-link, .nav-link:hover, .tab-links > a, .tab-links > a:hover {
+  color: #000;
+}
+.light-link {
+  color: #0025ee;
+}
